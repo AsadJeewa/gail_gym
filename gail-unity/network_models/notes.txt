@@ -1,8 +1,0 @@
-policy_net is generator
-Learns policy and value	
-
-policy_net
-#given state (observations), output action i.e learn a policy
-
-value_net
-#given state, output value
